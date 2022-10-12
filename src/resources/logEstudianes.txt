@@ -1,0 +1,20 @@
+Oct 12, 2022 9:41:26 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Jurado, identificación: 1000, nota 1: 12, nota 2: 15, nota 3: 19,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 9:41:57 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Pepitp, identificación: 123456789, nota 1: 123456789, nota 2: 12344564, nota 3: 49848989,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:00:30 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Nicolás Jurado, identificación: 1088243707, nota 1: 5, nota 2: 4.5, nota 3: 4.7,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:02:01 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Juan, identificación: 10, nota 1: 10, nota 2: 10, nota 3: 10,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:02:08 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Esteban, identificación: 11, nota 1: 11, nota 2: 11, nota 3: 11,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:05:05 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Nicolás Jurado, identificación: 1088243707, nota 1: 5, nota 2: 4.5, nota 3: 4.6,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:05:25 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Pedro Sánches, identificación: 1090, nota 1: 5, nota 2: 4.5, nota 3: 4.6,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:06:06 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Camilo, identificación: 1056, nota 1: 4, nota 2: 5, nota 3: 2,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:08:36 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Esteban, identificación: 123654, nota 1:  5, nota 2: 8, nota 3: 2,Nuevo estudiante ,2022-10-12
+Oct 12, 2022 10:09:39 AM persistencia.ArchivoUtil guardarRegistroLog
+INFO: Se guardó estudiante: nombre: Pedrito, identificación: 1058987, nota 1: 45, nota 2: 87, nota 3: 87,Nuevo estudiante ,2022-10-12

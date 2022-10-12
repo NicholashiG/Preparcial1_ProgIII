@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="model.Universidad">
+  <void property="estudiantes">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="model.Estudiante">
+      <void property="id">
+       <string>1088243707</string>
+      </void>
+      <void property="nombre">
+       <string>Nicolás Jurado</string>
+      </void>
+      <void property="nota1">
+       <string>5</string>
+      </void>
+      <void property="nota2">
+       <string>4.5</string>
+      </void>
+      <void property="nota3">
+       <string>4.6</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="model.Estudiante">
+      <void property="id">
+       <string>1090</string>
+      </void>
+      <void property="nombre">
+       <string>Pedro Sánches</string>
+      </void>
+      <void property="nota1">
+       <string>5</string>
+      </void>
+      <void property="nota2">
+       <string>4.5</string>
+      </void>
+      <void property="nota3">
+       <string>4.6</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="model.Estudiante">
+      <void property="id">
+       <string>1056</string>
+      </void>
+      <void property="nombre">
+       <string>Camilo</string>
+      </void>
+      <void property="nota1">
+       <string>4</string>
+      </void>
+      <void property="nota2">
+       <string>5</string>
+      </void>
+      <void property="nota3">
+       <string>2</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="model.Estudiante">
+      <void property="id">
+       <string>123654</string>
+      </void>
+      <void property="nombre">
+       <string>Esteban</string>
+      </void>
+      <void property="nota1">
+       <string> 5</string>
+      </void>
+      <void property="nota2">
+       <string>8</string>
+      </void>
+      <void property="nota3">
+       <string>2</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="model.Estudiante">
+      <void property="id">
+       <string>1058987</string>
+      </void>
+      <void property="nombre">
+       <string>Pedrito</string>
+      </void>
+      <void property="nota1">
+       <string>45</string>
+      </void>
+      <void property="nota2">
+       <string>87</string>
+      </void>
+      <void property="nota3">
+       <string>87</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="programas">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="model.Programa">
+      <void property="codigo">
+       <string> 1022</string>
+      </void>
+      <void property="modalidad">
+       <string>Presencial</string>
+      </void>
+      <void property="nombre">
+       <string> Arquitectura</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="model.Programa">
+      <void property="codigo">
+       <string>1020</string>
+      </void>
+      <void property="modalidad">
+       <string>Distancia</string>
+      </void>
+      <void property="nombre">
+       <string> Sistemas</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="model.Programa">
+      <void property="codigo">
+       <string>1021</string>
+      </void>
+      <void property="modalidad">
+       <string>Presencial</string>
+      </void>
+      <void property="nombre">
+       <string> Arquitectura</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="model.Programa">
+      <void property="codigo">
+       <string>1022</string>
+      </void>
+      <void property="modalidad">
+       <string>Presencial</string>
+      </void>
+      <void property="nombre">
+       <string> Psicologia</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,5 @@
+Nicolás Jurado,1088243707,5,4.5,4.6
+Pedro Sánches,1090,5,4.5,4.6
+Camilo,1056,4,5,2
+Esteban,123654, 5,8,2
+Pedrito,1058987,45,87,87
